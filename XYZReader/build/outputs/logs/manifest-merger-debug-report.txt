@@ -33,6 +33,7 @@ application
 ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
 MERGED from [com.android.support:support-v13:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
@@ -106,11 +107,12 @@ uses-sdk
 INJECTED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:support-v4:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:design:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:palette-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:24.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:23:9-52

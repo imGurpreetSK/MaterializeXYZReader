@@ -128,12 +128,20 @@
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/add_fab_background.xml",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable/add_fab_background.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",

@@ -16,20 +16,20 @@
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
