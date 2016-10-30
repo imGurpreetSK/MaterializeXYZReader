@@ -16,7 +16,7 @@
             android:layout_height="match_parent"
             android:background="@color/photo_placeholder"
             app:collapsedTitleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
-            app:contentScrim="?attr/colorPrimary"
+            app:contentScrim="@color/theme_primary"
             app:expandedTitleMarginStart="72dp"
             app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
@@ -58,7 +58,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
-        android:src="@mipmap/ic_launcher"
-        app:layout_anchorGravity="bottom|right|end" />
+        app:rippleColor="@android:color/white"
+        app:elevation="@dimen/fab_elevation"
+        android:src="@drawable/ic_share_black_48dp"
+        app:borderWidth="0dp"
+        app:backgroundTint="@color/fab_drawable" />
 
 </android.support.design.widget.CoordinatorLayout>

@@ -47,6 +47,7 @@
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="dividerColor">#BDBDBD</color>
+    <color name="fab_pressed">#AEEA00</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
@@ -86,12 +87,12 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="textColorPrimary">#000000</color>
+    <color name="textColorPrimary">#212121</color>
     <color name="textColorSecondary">#607D8B</color>
-    <color name="theme_accent">#FF9800</color>
-    <color name="theme_primary">#FF5722</color>
-    <color name="theme_primary_dark">#E64A19</color>
-    <color name="theme_primary_light">#FFCCBC</color>
+    <color name="theme_accent">#CDDC39</color>
+    <color name="theme_primary">#4CAF50</color>
+    <color name="theme_primary_dark">#388E3C</color>
+    <color name="theme_primary_light">#C8E6C9</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -524,7 +525,7 @@
     <dimen name="detail_title_text_size">32sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>

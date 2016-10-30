@@ -4,11 +4,19 @@
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share_black_48dp.png",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share_black_48dp.png"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share_white_48dp.png",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share_white_48dp.png"
     }
 ]
