@@ -5,33 +5,57 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="213700415331860"
+    timestamp="216029183539541"
     token="747490452766821908"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1150" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="671" />
+        duration="0" />
     <task
         name="verifier"
-        duration="88" />
+        duration="0" />
 
     <artifact
-        location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="213700415331860"
+        timestamp="215253291540188"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="215474546932668"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="215950553712431"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="216029183539541"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
