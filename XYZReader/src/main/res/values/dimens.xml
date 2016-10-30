@@ -12,5 +12,8 @@
     <dimen name="default_padding">16dp</dimen>
 
     <dimen name="detail_backdrop_height">192dp</dimen>
+    <dimen name="status_bar_dimension">24dp</dimen>
+    <dimen name="appbar_layout_dimension">192dp</dimen>
+    <dimen name="appbar_default_elevation">4dp</dimen>
 
 </resources>

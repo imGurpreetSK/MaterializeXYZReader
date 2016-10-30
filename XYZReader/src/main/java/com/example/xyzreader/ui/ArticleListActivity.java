@@ -8,8 +8,12 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
+import android.graphics.Typeface;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.RequiresApi;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
@@ -133,17 +137,14 @@ public class ArticleListActivity extends ActionBarActivity implements
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-//                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-//                        Animator anim = ViewAnimationUtils.createCircularReveal(view,
-//                                view.getWidth() / 2, view.getHeight() / 2, 0, (int) Math.hypot(view.getHeight() / 2, view.getWidth() / 2));
-//                        anim.setDuration(500);
-//                        anim.start();
-//                        startActivity(new Intent(Intent.ACTION_VIEW,
-//                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+
+                    Uri uri = ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()));
+//                    if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
+//                        enterReveal(view, uri);
 //                    } else {
-                        startActivity(new Intent(Intent.ACTION_VIEW,
-                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+                        startActivity(new Intent(Intent.ACTION_VIEW, uri));
 //                    }
+
                 }
             });
             return vh;
@@ -164,6 +165,8 @@ public class ArticleListActivity extends ActionBarActivity implements
                     mCursor.getString(ArticleLoader.Query.THUMB_URL),
                     ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
             holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+            holder.titleView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
+            holder.subtitleView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
         }
 
         @Override
@@ -184,4 +187,40 @@ public class ArticleListActivity extends ActionBarActivity implements
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
         }
     }
+
+
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    private void enterReveal(final View view, final Uri uri) {
+
+        int midWidth = view.getWidth() / 2;
+        int midHeight = view.getHeight() / 2;
+        int endRadius = (int) Math.hypot(midHeight, midWidth);
+        Animator anim = ViewAnimationUtils.createCircularReveal(view, midWidth, midHeight, 0, endRadius);
+//        view.setVisibility(View.VISIBLE);
+        anim.addListener(new Animator.AnimatorListener() {
+            @Override
+            public void onAnimationStart(Animator animator) {
+
+            }
+
+            @Override
+            public void onAnimationEnd(Animator animator) {
+                startActivity(new Intent(Intent.ACTION_VIEW, uri));
+            }
+
+            @Override
+            public void onAnimationCancel(Animator animator) {
+
+            }
+
+            @Override
+            public void onAnimationRepeat(Animator animator) {
+
+            }
+        });
+        anim.start();
+
+    }
+
+
 }
