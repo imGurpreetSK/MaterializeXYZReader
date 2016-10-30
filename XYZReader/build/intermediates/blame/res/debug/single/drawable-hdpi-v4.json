@@ -100,12 +100,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",

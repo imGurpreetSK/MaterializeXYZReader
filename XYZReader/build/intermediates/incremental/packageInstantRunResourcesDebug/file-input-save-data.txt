@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 30 18:47:23 IST 2016
+#Sun Oct 30 18:54:03 IST 2016
 210.set=ANDROID_RESOURCE
 282.file=/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
 14.set=ANDROID_RESOURCE
