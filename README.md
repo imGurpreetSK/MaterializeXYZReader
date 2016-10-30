@@ -13,8 +13,12 @@ In this project, the task is to redesign an app to follow the Material Design gu
 ## Screenshots
 
 <p align="center">
-<img src="" width="250px"/>
-<img src="" width="250px"/>
-<img src="" width="250px"/>
+<img src="/screenshots/Screenshot_1477834091.png" width="350px"/>
+<img src="/screenshots/Screenshot_1477834101.png" width="350px"/>
 </p>
+<p align="center">
+<img src="/screenshots/Screenshot_1477834117.png" width="350px"/>
+<img src="/screenshots/Screenshot_1477834122.png" width="350px"/>
+</p>
+
 
