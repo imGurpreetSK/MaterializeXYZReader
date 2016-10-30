@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 332
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 408
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 467
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 538
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -159,8 +159,160 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 611,
+                    "endColumn": 59,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 69,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 69,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 70,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 71,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 71,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 57,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 57,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 57,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 105,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 105,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 63,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 63,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1170,
                     "endColumn": 56,
-                    "endOffset": 663
+                    "endOffset": 1222
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -175,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 668,
+                    "startOffset": 1227,
                     "endColumn": 52,
-                    "endOffset": 716
+                    "endOffset": 1275
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -194,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 721,
+                    "startOffset": 1280,
                     "endColumn": 54,
-                    "endOffset": 771
+                    "endOffset": 1330
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -213,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 776,
+                    "startOffset": 1335,
                     "endColumn": 56,
-                    "endOffset": 828
+                    "endOffset": 1387
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -232,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 833,
+                    "startOffset": 1392,
                     "endColumn": 65,
-                    "endOffset": 894
+                    "endOffset": 1453
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -251,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 899,
+                    "startOffset": 1458,
                     "endColumn": 58,
-                    "endOffset": 953
+                    "endOffset": 1512
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -270,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 958,
+                    "startOffset": 1517,
                     "endColumn": 51,
-                    "endOffset": 1005
+                    "endOffset": 1564
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -289,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1010,
+                    "startOffset": 1569,
                     "endColumn": 53,
-                    "endOffset": 1059
+                    "endOffset": 1618
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -308,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1064,
+                    "startOffset": 1623,
                     "endColumn": 41,
-                    "endOffset": 1101
+                    "endOffset": 1660
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -327,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1106,
+                    "startOffset": 1665,
                     "endColumn": 94,
-                    "endOffset": 1196
+                    "endOffset": 1755
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -341,6 +493,46 @@
                         "startOffset": 143,
                         "endColumn": 94,
                         "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 62,
+                    "endOffset": 1818
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 62,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1823,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 854
                     }
                 }
             }

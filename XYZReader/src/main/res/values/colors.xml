@@ -19,13 +19,14 @@
 
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#FF5722</color>
-    <color name="theme_primary_dark">#E64A19</color>
-    <color name="theme_primary_light">#FFCCBC</color>
-    <color name="theme_accent">#FF9800</color>
+    <color name="theme_primary">#4CAF50</color>
+    <color name="theme_primary_dark">#388E3C</color>
+    <color name="theme_primary_light">#C8E6C9</color>
+    <color name="theme_accent">#CDDC39</color>
     <color name="ltgray">#ffe0e0e0</color>
-    <color name="textColorPrimary">#000000</color>
-    <color name="textColorSecondary">#757575</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#607D8B</color>
     <color name="dividerColor">#BDBDBD</color>
-    
+    <color name="fab_pressed">#AEEA00</color>
+
 </resources>
