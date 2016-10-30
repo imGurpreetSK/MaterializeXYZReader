@@ -5,7 +5,7 @@
     android:layout_height="match_parent">
 
     <android.support.design.widget.AppBarLayout
-        android:id="@+id/scrollview"
+        android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
         android:layout_height="@dimen/appbar_layout_dimension"
         app:elevation="@dimen/appbar_default_elevation"
@@ -58,12 +58,14 @@
         android:id="@+id/share_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
+        android:layout_gravity="center_vertical|left"
+        app:layout_anchor="@+id/appBarLayout"
         android:layout_margin="16dp"
         app:rippleColor="@android:color/white"
         app:elevation="@dimen/fab_elevation"
         android:src="@drawable/ic_share_black_48dp"
         app:borderWidth="0dp"
-        app:backgroundTint="@color/fab_drawable" />
+        app:backgroundTint="@color/fab_drawable"
+        app:layout_anchorGravity="bottom|right" />
 
 </android.support.design.widget.CoordinatorLayout>

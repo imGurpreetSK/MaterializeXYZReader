@@ -749,6 +749,7 @@ int id add 0x7f0e001c
 int id alertTitle 0x7f0e004e
 int id all 0x7f0e0034
 int id always 0x7f0e0038
+int id appBarLayout 0x7f0e007f
 int id app_bar 0x7f0e0082
 int id article_body 0x7f0e0085
 int id article_byline 0x7f0e0084
@@ -835,7 +836,6 @@ int id scrollIndicatorDown 0x7f0e0053
 int id scrollIndicatorUp 0x7f0e0050
 int id scrollView 0x7f0e0051
 int id scrollable 0x7f0e003e
-int id scrollview 0x7f0e007f
 int id search_badge 0x7f0e0064
 int id search_bar 0x7f0e0063
 int id search_button 0x7f0e0065

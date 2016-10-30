@@ -2803,6 +2803,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0e004e;
         public static final int all=0x7f0e0034;
         public static final int always=0x7f0e0038;
+        public static final int appBarLayout=0x7f0e007f;
         public static final int app_bar=0x7f0e0082;
         public static final int article_body=0x7f0e0085;
         public static final int article_byline=0x7f0e0084;
@@ -2889,7 +2890,6 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0e0050;
         public static final int scrollView=0x7f0e0051;
         public static final int scrollable=0x7f0e003e;
-        public static final int scrollview=0x7f0e007f;
         public static final int search_badge=0x7f0e0064;
         public static final int search_bar=0x7f0e0063;
         public static final int search_button=0x7f0e0065;

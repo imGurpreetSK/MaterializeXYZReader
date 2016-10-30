@@ -5,9 +5,9 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="210465111612911"
+    timestamp="212644753242525"
     token="747490452766821908"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -23,15 +23,36 @@
         duration="0" />
 
     <artifact
-        location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="210465111612911"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="211966860795174"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="212580331160067"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="212615185216305"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/builds/debug/212615185216305/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="212644753242525"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
