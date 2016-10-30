@@ -46,7 +46,7 @@
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
                 android:paddingTop="16dp"
-                android:textColor="@color/textColorPrimary" />
+                android:textColor="@android:color/white" />
 
             <TextView
                 android:id="@+id/article_subtitle"

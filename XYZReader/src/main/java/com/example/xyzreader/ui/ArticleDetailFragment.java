@@ -95,7 +95,6 @@ public class ArticleDetailFragment extends Fragment implements
             public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
                 switch (verticalOffset){
                     case 1:
-                        //collapsed
                         fab.setVisibility(View.GONE);
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             Window window = getActivity().getWindow();

@@ -5,9 +5,9 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="212644753242525"
+    timestamp="212919012728512"
     token="747490452766821908"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -34,22 +34,15 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="212580331160067"
+        timestamp="212842277610952"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="212615185216305"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/builds/debug/212615185216305/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="212644753242525"
-        verifier="COMPATIBLE" >
+        timestamp="212919012728512"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
