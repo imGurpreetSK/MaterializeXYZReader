@@ -142,7 +142,8 @@ public class ArticleListActivity extends ActionBarActivity implements
 //                    if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
 //                        enterReveal(view, uri);
 //                    } else {
-                        startActivity(new Intent(Intent.ACTION_VIEW, uri));
+                    startActivity(new Intent(Intent.ACTION_VIEW, uri));
+                    overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
 //                    }
 
                 }
