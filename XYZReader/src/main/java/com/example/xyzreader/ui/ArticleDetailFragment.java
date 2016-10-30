@@ -111,7 +111,8 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
+        bylineView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
+        bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
 
         if (mCursor != null) {
             mRootView.setAlpha(0);

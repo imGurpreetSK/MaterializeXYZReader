@@ -10,4 +10,6 @@
     <string name="up">Up</string>
     <string name="content_description_article_detail">Image depicting article content</string>
 
+    <string name="transition_name">whatever</string>
+
 </resources>

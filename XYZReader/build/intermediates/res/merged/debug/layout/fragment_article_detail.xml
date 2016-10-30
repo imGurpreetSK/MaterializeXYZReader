@@ -1,13 +1,14 @@
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_marginTop="24dp"
+    android:layout_marginTop="@dimen/status_bar_dimension"
     android:layout_height="match_parent">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
-        android:layout_height="192dp"
+        android:layout_height="@dimen/appbar_layout_dimension"
+        app:elevation="@dimen/appbar_default_elevation"
         android:background="?colorPrimary">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -26,6 +27,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/textColorSecondary"
+                android:transitionName="@string/transition_name"
                 android:contentDescription="@string/content_description_article_detail"
                 android:scaleType="centerCrop"
                 app:layout_collapseMode="parallax" />
