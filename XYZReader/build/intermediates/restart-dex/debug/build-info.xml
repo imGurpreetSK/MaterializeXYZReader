@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="189273528959022"
+    timestamp="199241221703164"
     token="747490452766821908"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="687" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -27,14 +27,21 @@
         type="RESOURCES" />
 
     <build
-        timestamp="188243993543851"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="198375627872115"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="188731394323996"
+        timestamp="198961717266234"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="199112625776289"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
@@ -45,17 +52,13 @@
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
-    </build>
-    <build
-        timestamp="189241727898820"
-        verifier="METHOD_DELETED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="189273528959022"
-        verifier="COMPATIBLE" >
+        timestamp="199241221703164"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />

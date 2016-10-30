@@ -1,0 +1,34 @@
+<com.example.xyzreader.ui.MaxWidthLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="#fff"
+    android:maxWidth="@dimen/detail_card_max_width"
+    android:orientation="vertical"
+    app:elevation="2dp">
+
+    <TextView
+        android:id="@+id/article_byline"
+        style="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#333"
+        android:padding="@dimen/default_padding"
+        android:textColor="#8fff" />
+
+    <TextView
+        android:id="@+id/article_body"
+        style="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
+        android:layout_marginRight="@dimen/detail_inner_horiz_margin"
+        android:layout_marginTop="@dimen/default_padding"
+        android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
+        android:paddingBottom="@dimen/detail_body_bottom_margin"
+        android:textColor="@color/textColorPrimary"
+        android:textColorLink="@color/theme_accent"
+        android:textSize="@dimen/detail_body_text_size" />
+
+</com.example.xyzreader.ui.MaxWidthLinearLayout>
