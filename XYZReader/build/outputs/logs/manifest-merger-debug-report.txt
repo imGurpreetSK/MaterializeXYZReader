@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:1:1-53:12
 	package
 		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:3:5-36
 	android:versionName
@@ -30,7 +30,7 @@ ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/A
 	android:name
 		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:12:5-48:19
+ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:12:5-52:19
 MERGED from [com.android.support:support-v13:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
@@ -45,6 +45,8 @@ MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/Gurpree
 MERGED from [com.android.support:transition:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:palette-v7:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:cardview-v7:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
 	android:label
 		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-41
 	android:allowBackup
@@ -111,6 +113,13 @@ ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/A
 		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:46:13-37
 	android:name
 		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:44:19-53
+meta-data#com.google.android.gms.version
+ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:48:9-50:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:49:13-58
 uses-sdk
 INJECTED from /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/AndroidManifest.xml:21:5-23:55
@@ -128,6 +137,9 @@ MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/Gurpreet/StudioP
 MERGED from [com.android.support:transition:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:palette-v7:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:25.0.0] /Users/Gurpreet/StudioProjects/Udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
