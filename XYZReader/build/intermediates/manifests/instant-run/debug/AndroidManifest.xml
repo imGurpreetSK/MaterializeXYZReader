@@ -30,6 +30,7 @@
         </activity>
         <activity
             android:name="com.example.xyzreader.ui.ArticleDetailActivity"
+            android:noHistory="true"
             android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />

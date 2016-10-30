@@ -26,6 +26,7 @@
 
         <activity
             android:name=".ui.ArticleDetailActivity"
+            android:noHistory="true"
             android:parentActivityName=".ui.ArticleListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
